@@ -1,2 +1,2 @@
 # Startup_Weekend
-Project made to the Startup Weekend Unifei
+Project made on the Startup Weekend Unifei.
